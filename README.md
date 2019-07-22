@@ -4,45 +4,75 @@
 
 As a group project, we wanted to create an app for users to find their favorite yoga studios (based off of yoga type; ie: hatha, vinyasa) and all of the drop-in fees so that they had everything in one place. We created functionality for displaying studios based off of yoga type, sorting studios by price, display all studios, and a search bar to search for a specific yoga studio upon hitting the return key. 
 
+## Application deployed at:
 
-## Setup:
+[https://matthewkaplan.github.io/CoYo-Colorado-Yoga-Collective/](https://matthewkaplan.github.io/CoYo-Colorado-Yoga-Collective/)
+
+
+## Preview:
+
+![screencapture-localhost-3000-2019-04-10-23_57_54](https://user-images.githubusercontent.com/40863560/55934082-bf376980-5bec-11e9-8c54-fc62890e1509.jpg)
+
+## Getting Started:
 
 First, clone down the repo.
 
 ```bash
-git clone 
+$ git clone https://github.com/MatthewKaplan/COYO.git
 ```
 
 Once you have cloned the repo, install the library dependencies. Run:
 
 ```bash
-npm install
+$ npm install
 ```
-To run tests in the game program, Run:
+Launch in your browser:
 ```bash
-npm test
+$ npm start
 ```
 
-## Wireframes and photos of project:
+## Testing Project:
 
-![Image from iOS (1)](https://user-images.githubusercontent.com/40863560/55840512-dab94c00-5ae8-11e9-8668-dead5f46e172.jpg)
+After following the <b>Getting Started</b> instructions you may test the project by doing the following.
 
-![Image from iOS](https://user-images.githubusercontent.com/40863560/55840516-dd1ba600-5ae8-11e9-8d20-af467fc340d0.jpg)
+test all files:
 
-![screencapture-localhost-3000-2019-04-10-23_57_54](https://user-images.githubusercontent.com/40863560/55934082-bf376980-5bec-11e9-8c54-fc62890e1509.jpg)
+```
+$ npm test
+```
 
-## Technologies used:
+test the total coverage of the project:
 
-* fetch API 
-* ReactJS 
-* JSX 
-* SCSS
-* Enzyme/Jest
+```
+$ npm t -- --coverage --watchAll=false
+```
+
+<p align="center">
+  <img src="https://i.imgur.com/dXL2hnN.jpg" alt="project test coverage">
+</p>
+
+
+## Project Tools:
+
+- fetch API 
+- ReactJS 
+- JSX 
+- SCSS
+
+## Tested With:
+- Jest
+- Enzyme
 
 ## Authors:
 
-Matthew Kaplan
+[Matthew Kaplan](https://github.com/MatthewKaplan)
 
 [Sally Haefling](https://github.com/SallyHaefling)
 
 [Kelly Zick](https://github.com/misskelly)
+
+---
+
+**[Back to top](https://github.com/MatthewKaplan/COYO#coyo-colorado-yoga-collective)**
+
+---
