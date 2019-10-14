@@ -1,8 +1,9 @@
-# CoYo: Colorado Yoga Collective
+
+# CoYo: Colorado Yoga Collective 
 
 ## Abstract:
 
-As a group project, we wanted to create an app for users to find their favorite yoga studios (based off of yoga type; ie: hatha, vinyasa) and all of the drop-in fees so that they had everything in one place. We created functionality for displaying studios based off of yoga type, sorting studios by price, display all studios, and a search bar to search for a specific yoga studio upon hitting the return key. 
+We wanted to create an app for users to find their favorite yoga studios (based off of yoga type; ie: hatha, vinyasa) and all of the drop-in fees so that they had everything in one place. We created functionality for displaying studios based off of yoga type, sorting studios by price, display all studios, and a search bar to search for a specific yoga studio upon hitting the return key.
 
 ## Application deployed at:
 
@@ -11,17 +12,17 @@ As a group project, we wanted to create an app for users to find their favorite 
 
 ## Preview:
 
-![screencapture-localhost-3000-2019-04-10-23_57_54](https://user-images.githubusercontent.com/40863560/55934082-bf376980-5bec-11e9-8c54-fc62890e1509.jpg)
+<img src="https://i.imgur.com/MhlSAFo.png" width="900" />
 
 ## Getting Started:
 
-First, clone down the repo.
+Clone down the repo.
 
 ```bash
-$ git clone https://github.com/MatthewKaplan/COYO.git
+$ git clone https://github.com/misskelly/CoYo-Colorado-Yoga-Collective.git
 ```
 
-Once you have cloned the repo, install the library dependencies. Run:
+Install library dependencies:
 
 ```bash
 $ npm install
@@ -30,26 +31,6 @@ Launch in your browser:
 ```bash
 $ npm start
 ```
-
-## Testing Project:
-
-After following the <b>Getting Started</b> instructions you may test the project by doing the following.
-
-test all files:
-
-```
-$ npm test
-```
-
-test the total coverage of the project:
-
-```
-$ npm t -- --coverage --watchAll=false
-```
-
-<p align="center">
-  <img src="https://i.imgur.com/dXL2hnN.jpg" alt="project test coverage">
-</p>
 
 
 ## Project Tools:
@@ -73,6 +54,6 @@ $ npm t -- --coverage --watchAll=false
 
 ---
 
-**[Back to top](https://github.com/MatthewKaplan/COYO#coyo-colorado-yoga-collective)**
+**[Back to top](https://github.com/MatthewKaplan/misskelly/CoYo-Colorado-Yoga-Collective)**
 
 ---
